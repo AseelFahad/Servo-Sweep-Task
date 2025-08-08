@@ -39,4 +39,4 @@ The code uses the `Servo.h` library and works for any number of servos (2 to 6).
 ---
 
 ## 📷 Simulation Screenshots
-Add images here showing the wiring and simulation running in TinkerCAD.
+<img width="1358" height="553" alt="simulation picture" src="https://github.com/user-attachments/assets/0ae1c32a-1b1c-40ef-b375-c2f03e3b4494" />
